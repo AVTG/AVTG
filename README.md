@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anubhav Vijayvargeeya and I'm a MERN Stack Developer</p>
+<p align="left">My name is Anubhav Vijayvargeeya. I am 3rd year student at IIIT Bhagalpur and a passionate software developer with a strong foundation in problem-solving and a deep understanding of Data Structures and Algorithms (DSA). My expertise spans across the MERN stack (MongoDB, Express.js, React, and Node.js), where I have developed robust and scalable web applications. In addition to my proficiency in full-stack development, I am an AI and Machine Learning enthusiast, constantly exploring new advancements and integrating intelligent solutions into my projects. My drive for continuous learning and innovation has enabled me to tackle complex challenges and deliver high-quality software solutions. With a keen eye for detail and a commitment to excellence, I thrive in dynamic environments where I can leverage my skills to contribute to impactful projects. Let's connect and explore opportunities to collaborate and innovate in the tech industry!</p>
 
 ###
 
